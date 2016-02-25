@@ -12,7 +12,7 @@ USAGI ("Useful Scripts for Amuse Git") is mostly a collection of Python scripts,
 * Get AMUSE
 * Get this repository
 * Add this repository's src directory to your PYTHONPATH
-* Where you'd normally do "from amuse.lab import *", you now do "from usagi.lab import *" instead.
+* Where you'd normally use "from amuse.lab import *", you now write "from usagi.lab import *" instead.
 
 ### License ###
-See "LICENSE" in the root direcory.
+See the header of individual scripts. In all other cases: see "LICENSE" in the root directory.
